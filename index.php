@@ -213,7 +213,7 @@
         </div>
         <div class="col-md-6 col-lg-4">
           <a href="services.php#telecommunications" class="service-card card-gradient-overlay">
-            <div class="service-bg" style="background-image:url('assets/img/construction/branding.png');"></div>
+            <div class="service-bg" style="background-image:url('assets/img/construction/telecoms.jpg');"></div>
             <div class="service-content">
               <h3>Telecommunications</h3>
               <p>Fiber Maintenance, GPON, Aerial/Underground Installation, RAN Modernisation, and more.</p>
@@ -222,7 +222,7 @@
         </div>
         <div class="col-md-6 col-lg-4">
           <a href="services.php#supply" class="service-card card-gradient-overlay">
-            <div class="service-bg" style="background-image:url('assets/img/construction/container.png');"></div>
+            <div class="service-bg" style="background-image:url('assets/img/construction/supply.jpg');"></div>
             <div class="service-content">
               <h3>Supply Division</h3>
               <p>Mechanical Spares, Electrical, Medical Equipment, Safety Wear, and more.</p>
@@ -240,7 +240,7 @@
         </div>
         <div class="col-md-6 col-lg-4">
           <a href="services.php#water-engineering" class="service-card card-gradient-overlay">
-            <div class="service-bg" style="background-image:url('assets/img/construction/bg person.png');"></div>
+            <div class="service-bg" style="background-image:url('assets/img/construction/water.jpg');"></div>
             <div class="service-content">
               <h3>Water Engineering</h3>
               <p>Water Supply Systems, Pumping Solutions, Waterproofing, and Drainage.</p>
