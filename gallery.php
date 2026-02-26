@@ -1,267 +1,193 @@
 <?php require 'head.php'; ?>
 
-  <main class="main">
+<main class="main">
 
-    <!-- Page Title -->
-    <div class="page-title light-background">
-      <div class="container d-lg-flex justify-content-between align-items-center">
-        <h1 class="mb-2 mb-lg-0">Projects</h1>
-        <nav class="breadcrumbs">
-          <ol>
-            <li><a href="index.php">Home</a></li>
-            <li class="current">Projects</li>
-          </ol>
-        </nav>
-      </div>
-    </div><!-- End Page Title -->
+  <!-- Page Title -->
+  <div class="page-title light-background">
+    <div class="container d-lg-flex justify-content-between align-items-center">
+      <h1 class="mb-2 mb-lg-0">Gallery</h1>
+      <nav class="breadcrumbs">
+        <ol>
+          <li><a href="index.php">Home</a></li>
+          <li class="current">Gallery</li>
+        </ol>
+      </nav>
+    </div>
+  </div>
 
-    <!-- Projects Section -->
-    <section id="projects" class="projects section">
+  <!-- Gallery Section -->
+  <section id="gallery" class="gallery section">
+    <div class="container" data-aos="fade-up">
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
+      <div class="row g-4">
 
-        <div class="projects-grid">
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/project-2.webp" class="img-fluid" alt="Metropolitan Office Tower">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Commercial</span>
+                <span class="status completed">Completed</span>
+                <h4>Metropolitan Office Tower</h4>
+                <p>Innovative glass facade design with sustainable energy systems and modern workspace solutions.</p>
+                <div class="specs">
+                  <span><i class="bi bi-building"></i> 32 Floors</span>
+                  <span><i class="bi bi-calendar-check"></i> 24 Months</span>
+                </div>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> New York, NY
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
 
-          <div class="project-item" data-aos="zoom-in" data-aos-delay="100">
-            <div class="project-content">
-              <div class="project-header">
-                <span class="project-category">Commercial</span>
-                <span class="project-status completed">Completed</span>
-              </div>
-              <h3 class="project-title">Metropolitan Office Tower</h3>
-              <div class="project-details">
-                <div class="project-info">
-                  <p>Innovative glass facade design with sustainable energy systems and modern workspace solutions.</p>
-                  <div class="project-specs">
-                    <span class="spec-item">
-                      <i class="bi bi-building"></i>
-                      32 Floors
-                    </span>
-                    <span class="spec-item">
-                      <i class="bi bi-calendar-check"></i>
-                      24 Months
-                    </span>
-                  </div>
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/project-6.webp" class="img-fluid" alt="Riverside Luxury Homes">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Residential</span>
+                <span class="status in-progress">In Progress</span>
+                <h4>Riverside Luxury Homes</h4>
+                <p>Premium residential development featuring eco-friendly materials and smart home integration.</p>
+                <div class="specs">
+                  <span><i class="bi bi-house"></i> 24 Units</span>
+                  <span><i class="bi bi-calendar-check"></i> 18 Months</span>
                 </div>
-                <div class="project-location">
-                  <i class="bi bi-geo-alt-fill"></i>
-                  <span>New York, NY</span>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Portland, OR
                 </div>
               </div>
-              <a href="project-details.php" class="project-link">
-                <span>View Project</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
             </div>
-            <div class="project-visual">
-              <img src="assets/img/construction/project-2.webp" alt="Metropolitan Office Tower" class="img-fluid">
-              <div class="project-badge">
-                <i class="bi bi-award"></i>
-              </div>
-            </div>
-          </div><!-- End Project Item -->
+          </div>
+        </div>
 
-          <div class="project-item" data-aos="zoom-in" data-aos-delay="200">
-            <div class="project-content">
-              <div class="project-header">
-                <span class="project-category">Residential</span>
-                <span class="project-status in-progress">In Progress</span>
-              </div>
-              <h3 class="project-title">Riverside Luxury Homes</h3>
-              <div class="project-details">
-                <div class="project-info">
-                  <p>Premium residential development featuring eco-friendly materials and smart home integration.</p>
-                  <div class="project-specs">
-                    <span class="spec-item">
-                      <i class="bi bi-house"></i>
-                      24 Units
-                    </span>
-                    <span class="spec-item">
-                      <i class="bi bi-calendar-check"></i>
-                      18 Months
-                    </span>
-                  </div>
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/project-10.webp" class="img-fluid" alt="Highway Bridge Reconstruction">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Infrastructure</span>
+                <span class="status completed">Completed</span>
+                <h4>Highway Bridge Reconstruction</h4>
+                <p>Major infrastructure upgrade enhancing traffic flow and ensuring structural safety standards.</p>
+                <div class="specs">
+                  <span><i class="bi bi-rulers"></i> 2.5 Miles</span>
+                  <span><i class="bi bi-calendar-check"></i> 36 Months</span>
                 </div>
-                <div class="project-location">
-                  <i class="bi bi-geo-alt-fill"></i>
-                  <span>Portland, OR</span>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Dallas, TX
                 </div>
               </div>
-              <a href="project-details.php" class="project-link">
-                <span>View Project</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
             </div>
-            <div class="project-visual">
-              <img src="assets/img/construction/project-6.webp" alt="Riverside Luxury Homes" class="img-fluid">
-              <div class="project-badge">
-                <i class="bi bi-tools"></i>
-              </div>
-            </div>
-          </div><!-- End Project Item -->
-
-          <div class="project-item" data-aos="zoom-in" data-aos-delay="300">
-            <div class="project-content">
-              <div class="project-header">
-                <span class="project-category">Infrastructure</span>
-                <span class="project-status completed">Completed</span>
-              </div>
-              <h3 class="project-title">Highway Bridge Reconstruction</h3>
-              <div class="project-details">
-                <div class="project-info">
-                  <p>Major infrastructure upgrade enhancing traffic flow and ensuring structural safety standards.</p>
-                  <div class="project-specs">
-                    <span class="spec-item">
-                      <i class="bi bi-rulers"></i>
-                      2.5 Miles
-                    </span>
-                    <span class="spec-item">
-                      <i class="bi bi-calendar-check"></i>
-                      36 Months
-                    </span>
-                  </div>
-                </div>
-                <div class="project-location">
-                  <i class="bi bi-geo-alt-fill"></i>
-                  <span>Dallas, TX</span>
-                </div>
-              </div>
-              <a href="project-details.php" class="project-link">
-                <span>View Project</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-            <div class="project-visual">
-              <img src="assets/img/construction/project-10.webp" alt="Highway Bridge Reconstruction" class="img-fluid">
-              <div class="project-badge">
-                <i class="bi bi-gear"></i>
-              </div>
-            </div>
-          </div><!-- End Project Item -->
-
-          <div class="project-item" data-aos="zoom-in" data-aos-delay="100">
-            <div class="project-content">
-              <div class="project-header">
-                <span class="project-category">Healthcare</span>
-                <span class="project-status completed">Completed</span>
-              </div>
-              <h3 class="project-title">Children's Medical Facility</h3>
-              <div class="project-details">
-                <div class="project-info">
-                  <p>Specialized pediatric center with family-friendly design and advanced medical technology integration.</p>
-                  <div class="project-specs">
-                    <span class="spec-item">
-                      <i class="bi bi-hospital"></i>
-                      8 Floors
-                    </span>
-                    <span class="spec-item">
-                      <i class="bi bi-calendar-check"></i>
-                      28 Months
-                    </span>
-                  </div>
-                </div>
-                <div class="project-location">
-                  <i class="bi bi-geo-alt-fill"></i>
-                  <span>Boston, MA</span>
-                </div>
-              </div>
-              <a href="project-details.php" class="project-link">
-                <span>View Project</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-            <div class="project-visual">
-              <img src="assets/img/construction/project-4.webp" alt="Children's Medical Facility" class="img-fluid">
-              <div class="project-badge">
-                <i class="bi bi-heart-pulse"></i>
-              </div>
-            </div>
-          </div><!-- End Project Item -->
-
-          <div class="project-item" data-aos="zoom-in" data-aos-delay="200">
-            <div class="project-content">
-              <div class="project-header">
-                <span class="project-category">Educational</span>
-                <span class="project-status planning">Planning</span>
-              </div>
-              <h3 class="project-title">Innovation Campus Center</h3>
-              <div class="project-details">
-                <div class="project-info">
-                  <p>Modern learning facility with flexible spaces designed for collaborative education and research.</p>
-                  <div class="project-specs">
-                    <span class="spec-item">
-                      <i class="bi bi-mortarboard"></i>
-                      5 Buildings
-                    </span>
-                    <span class="spec-item">
-                      <i class="bi bi-calendar-check"></i>
-                      42 Months
-                    </span>
-                  </div>
-                </div>
-                <div class="project-location">
-                  <i class="bi bi-geo-alt-fill"></i>
-                  <span>San Francisco, CA</span>
-                </div>
-              </div>
-              <a href="project-details.php" class="project-link">
-                <span>View Project</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-            <div class="project-visual">
-              <img src="assets/img/construction/project-8.webp" alt="Innovation Campus Center" class="img-fluid">
-              <div class="project-badge">
-                <i class="bi bi-lightbulb"></i>
-              </div>
-            </div>
-          </div><!-- End Project Item -->
-
-          <div class="project-item" data-aos="zoom-in" data-aos-delay="300">
-            <div class="project-content">
-              <div class="project-header">
-                <span class="project-category">Industrial</span>
-                <span class="project-status completed">Completed</span>
-              </div>
-              <h3 class="project-title">Green Energy Plant</h3>
-              <div class="project-details">
-                <div class="project-info">
-                  <p>Sustainable power generation facility incorporating renewable energy and efficient production systems.</p>
-                  <div class="project-specs">
-                    <span class="spec-item">
-                      <i class="bi bi-lightning"></i>
-                      150MW
-                    </span>
-                    <span class="spec-item">
-                      <i class="bi bi-calendar-check"></i>
-                      30 Months
-                    </span>
-                  </div>
-                </div>
-                <div class="project-location">
-                  <i class="bi bi-geo-alt-fill"></i>
-                  <span>Denver, CO</span>
-                </div>
-              </div>
-              <a href="project-details.php" class="project-link">
-                <span>View Project</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-            <div class="project-visual">
-              <img src="assets/img/construction/project-12.webp" alt="Green Energy Plant" class="img-fluid">
-              <div class="project-badge">
-                <i class="bi bi-leaf"></i>
-              </div>
-            </div>
-          </div><!-- End Project Item -->
-
+          </div>
         </div>
 
       </div>
 
-    </section><!-- /Projects Section -->
+    </div>
+  </section>
 
-  </main>
+</main>
+
+<style>
+  /* ===========================
+   GALLERY HOVER EFFECT
+=========================== */
+
+  .gallery-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+    cursor: pointer;
+  }
+
+  .gallery-item img {
+    transition: transform 0.5s ease;
+    width: 100%;
+    display: block;
+  }
+
+  .gallery-item:hover img {
+    transform: scale(1.08);
+  }
+
+  .gallery-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.2));
+    display: flex;
+    align-items: flex-end;
+    padding: 20px;
+    transform: translateY(100%);
+    transition: transform 0.4s ease;
+  }
+
+  .gallery-item:hover .gallery-overlay {
+    transform: translateY(0);
+  }
+
+  .overlay-content {
+    color: #fff;
+    width: 100%;
+  }
+
+  .overlay-content h4 {
+    margin-bottom: 10px;
+    font-weight: 600;
+  }
+
+  .overlay-content p {
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+
+  .specs {
+    display: flex;
+    gap: 15px;
+    font-size: 13px;
+    margin-bottom: 10px;
+  }
+
+  .location {
+    font-size: 13px;
+    opacity: 0.9;
+  }
+
+  .category {
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 5px;
+  }
+
+  .status {
+    font-size: 11px;
+    padding: 3px 8px;
+    border-radius: 20px;
+    margin-left: 8px;
+  }
+
+  .status.completed {
+    background: #28a745;
+  }
+
+  .status.in-progress {
+    background: #ffc107;
+    color: #000;
+  }
+
+  .status.planning {
+    background: #17a2b8;
+  }
+</style>
 
 <?php require 'foot.php'; ?>
