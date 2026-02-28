@@ -121,7 +121,7 @@
         </div>
         <div class="col-lg-6 text-center">
           <div class="about-img-wrapper position-relative d-inline-block">
-            <img src="assets/img/construction/ceo nlc.png" alt="Construction Team" class="img-fluid rounded shadow" style="max-height:340px; object-fit:cover;">
+            <img src="assets/img/construction/30618.jpg" alt="Construction Team" class="img-fluid rounded shadow" style="max-height:340px; object-fit:cover;">
             <span class="position-absolute top-0 start-0 translate-middle badge rounded-pill bg-heading-color fs-6 px-3 py-2 shadow">
               <i class="bi bi-award me-1"></i> Since 2021
             </span>

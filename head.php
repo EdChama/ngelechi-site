@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -49,51 +50,77 @@
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 </head>
+
 <body class="index-page">
-<header id="header" class="header sticky-top">
-  <div class="topbar d-flex align-items-center dark-background">
-    <div class="container d-flex justify-content-center justify-content-md-between">
-      <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:ngelechicompanylimited@gmail.com">ngelechicompanylimited@gmail.com</a></i>
-        <i class="bi bi-envelope d-flex align-items-center ms-4"><a href="mailto:ngelechicompanylimted@yahoo.com">ngelechicompanylimted@yahoo.com</a></i>
-        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+260 978 265 000</span></i>
-        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+260 968 525 857</span></i>
+  <header id="header" class="header sticky-top">
+    <div class="topbar d-flex align-items-center dark-background">
+      <div class="container d-flex justify-content-center justify-content-md-between">
+        <div class="contact-info d-flex align-items-center">
+          <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:ngelechicompanylimited@gmail.com">ngelechicompanylimited@gmail.com</a></i>
+          <i class="bi bi-envelope d-flex align-items-center ms-4"><a href="mailto:ngelechicompanylimted@yahoo.com">ngelechicompanylimted@yahoo.com</a></i>
+          <i class="bi bi-phone d-flex align-items-center ms-4"><span>+260 978 265 000</span></i>
+          <i class="bi bi-phone d-flex align-items-center ms-4"><span>+260 968 525 857</span></i>
+        </div>
+        <div class="social-links d-none d-md-flex align-items-center">
+          <!-- Add real social links if available -->
+          <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
+          <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+          <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+          <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+        </div>
       </div>
-      <div class="social-links d-none d-md-flex align-items-center">
-        <!-- Add real social links if available -->
-        <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+    </div><!-- End Top Bar -->
+    <div class="branding d-flex align-items-cente">
+      <div class="container position-relative d-flex align-items-center justify-content-between">
+        <a href="index.php" class="logo d-flex align-items-center">
+          <img src="assets/img/logo.png" alt="Logo" style="height:48px; margin-right:10px;">
+          <h1 class="sitename">Ngelechi <span class="d-none d-md-inline">Limited</span></h1>
+        </a>
+        <?php
+        $current_page = basename($_SERVER['PHP_SELF']);
+        ?>
+
+        <nav id="navmenu" class="navmenu">
+          <ul>
+            <li>
+              <a href="index.php" class="<?= ($current_page == 'index.php') ? 'active' : '' ?>">Home</a>
+            </li>
+
+            <li>
+              <a href="about.php" class="<?= ($current_page == 'about.php') ? 'active' : '' ?>">About Us</a>
+            </li>
+
+            <li>
+              <a href="gallery.php" class="<?= ($current_page == 'gallery.php') ? 'active' : '' ?>">Gallery</a>
+            </li>
+
+            <li class="dropdown">
+              <a href="services.php" class="<?= ($current_page == 'services.php') ? 'active' : '' ?>">
+                <span>Services</span>
+                <i class="bi bi-chevron-down toggle-dropdown"></i>
+              </a>
+              <ul>
+                <li><a href="services.php#construction">Construction</a></li>
+                <li><a href="services.php#telecommunications">Telecommunications</a></li>
+                <li><a href="services.php#supply">Supply</a></li>
+                <li><a href="services.php#mining">Mining</a></li>
+                <li><a href="services.php#water-engineering">Water Engineering</a></li>
+                <li><a href="services.php#branding">Branding & Graphics Design</a></li>
+              </ul>
+            </li>
+
+            <li>
+              <a href="team.php" class="<?= ($current_page == 'team.php') ? 'active' : '' ?>">Team</a>
+            </li>
+
+            <li>
+              <a href="contact.php" class="<?= ($current_page == 'contact.php') ? 'active' : '' ?>">Contact</a>
+            </li>
+          </ul>
+
+          <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+        </nav>
       </div>
     </div>
-  </div><!-- End Top Bar -->
-  <div class="branding d-flex align-items-cente">
-    <div class="container position-relative d-flex align-items-center justify-content-between">
-      <a href="index.php" class="logo d-flex align-items-center">
-        <img src="assets/img/logo.png" alt="Logo" style="height:48px; margin-right:10px;">
-        <h1 class="sitename">Ngelechi <span class="d-none d-md-inline">Limited</span></h1>
-      </a>
-      <nav id="navmenu" class="navmenu">
-        <ul>
-          <li><a href="index.php" class="active">Home</a></li>
-          <li><a href="about.php">About Us</a></li>
-          <li class="dropdown"><a href="services.php"><span>Services</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-              <li><a href="services.php#construction">Construction</a></li>
-              <li><a href="services.php#telecommunications">Telecommunications</a></li>
-              <li><a href="services.php#supply">Supply</a></li>
-              <li><a href="services.php#mining">Mining</a></li>
-              <li><a href="services.php#water-engineering">Water Engineering</a></li>
-              <li><a href="services.php#branding">Branding & Graphics Design</a></li>
-            </ul>
-          </li>
-          <li><a href="team.php">Team</a></li>
-          <li><a href="contact.php">Contact</a></li>
-        </ul>
-        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-      </nav>
-    </div>
-  </div>
-</header>
-<main class="main">
+  </header>
+  <main class="main">
