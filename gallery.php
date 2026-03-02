@@ -18,25 +18,33 @@
   <!-- Gallery Section -->
   <section id="gallery" class="gallery section">
     <div class="container" data-aos="fade-up">
-
+      <div class="row">
+        <p class="p-2" id="lead">
+          <!-- intro of the gallery -->
+        </p>
+      </div>
       <div class="row g-4">
-
         <!-- Gallery Item -->
         <div class="col-lg-4 col-md-6">
           <div class="gallery-item">
-            <img src="assets/img/construction/project-2.webp" class="img-fluid" alt="Metropolitan Office Tower">
+            <img src="assets/img/construction/IMG_7695.jpg" class="img-fluid" alt="Industrial Warehouse Construction Zambia">
             <div class="gallery-overlay">
               <div class="overlay-content">
-                <span class="category">Commercial</span>
+                <span class="category">Industrial Construction</span>
                 <span class="status completed">Completed</span>
-                <h4>Metropolitan Office Tower</h4>
-                <p>Innovative glass facade design with sustainable energy systems and modern workspace solutions.</p>
+                <h4>Warehouse & Industrial Facility Development</h4>
+                <p>
+                  Design and construction of durable warehouse and industrial structures
+                  engineered for large-scale storage, logistics operations, and heavy-duty
+                  industrial use. Built with reinforced concrete foundations, structural steel
+                  frameworks, and high-capacity roofing systems to meet industry demands.
+                </p>
                 <div class="specs">
-                  <span><i class="bi bi-building"></i> 32 Floors</span>
-                  <span><i class="bi bi-calendar-check"></i> 24 Months</span>
+                  <span><i class="bi bi-building-gear"></i> Steel & Concrete Structures</span>
+                  <span><i class="bi bi-tools"></i> Industrial-Grade Construction</span>
                 </div>
                 <div class="location">
-                  <i class="bi bi-geo-alt-fill"></i> New York, NY
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
                 </div>
               </div>
             </div>
@@ -46,19 +54,24 @@
         <!-- Gallery Item -->
         <div class="col-lg-4 col-md-6">
           <div class="gallery-item">
-            <img src="assets/img/construction/project-6.webp" class="img-fluid" alt="Riverside Luxury Homes">
+            <img src="assets/img/construction/project-6.webp" class="img-fluid" alt="High-Rise Apartment and Office Development Zambia">
             <div class="gallery-overlay">
               <div class="overlay-content">
-                <span class="category">Residential</span>
-                <span class="status in-progress">In Progress</span>
-                <h4>Riverside Luxury Homes</h4>
-                <p>Premium residential development featuring eco-friendly materials and smart home integration.</p>
+                <span class="category">High-Rise Development</span>
+                <span class="status in-progress">Ongoing Projects</span>
+                <h4>Multi-Storey Apartment & Office Complex</h4>
+                <p>
+                  Development of reinforced concrete multi-storey residential and commercial
+                  buildings designed for urban environments. Our expertise includes structural
+                  engineering, vertical load design, mechanical and electrical installations,
+                  façade finishing, and full project lifecycle management.
+                </p>
                 <div class="specs">
-                  <span><i class="bi bi-house"></i> 24 Units</span>
-                  <span><i class="bi bi-calendar-check"></i> 18 Months</span>
+                  <span><i class="bi bi-building"></i> Multi-Level Structure</span>
+                  <span><i class="bi bi-diagram-3"></i> Structural & MEP Integration</span>
                 </div>
                 <div class="location">
-                  <i class="bi bi-geo-alt-fill"></i> Portland, OR
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
                 </div>
               </div>
             </div>
@@ -68,25 +81,108 @@
         <!-- Gallery Item -->
         <div class="col-lg-4 col-md-6">
           <div class="gallery-item">
-            <img src="assets/img/construction/project-10.webp" class="img-fluid" alt="Highway Bridge Reconstruction">
+            <img src="assets/img/construction/353835371_255365237093504_5181481296848605863_n.jpg" class="img-fluid" alt="Industrial Workshop & Manufacturing Facility Development Zambia">
             <div class="gallery-overlay">
               <div class="overlay-content">
-                <span class="category">Infrastructure</span>
+                <span class="category">Industrial & Manufacturing Facilities</span>
                 <span class="status completed">Completed</span>
-                <h4>Highway Bridge Reconstruction</h4>
-                <p>Major infrastructure upgrade enhancing traffic flow and ensuring structural safety standards.</p>
+                <h4>Workshop & Fabrication Plant Development</h4>
+                <p>
+                  Design and construction of industrial workshops and manufacturing environments
+                  for peak and safe production.
+                  Our solutions include structural steel frameworks, high-load floor slabs,
+                  overhead crane provisions, ventilation systems, and optimized production layouts.
+                </p>
                 <div class="specs">
-                  <span><i class="bi bi-rulers"></i> 2.5 Miles</span>
-                  <span><i class="bi bi-calendar-check"></i> 36 Months</span>
+                  <span><i class="bi bi-building-gear"></i> Industrial Structures</span>
+                  <span><i class="bi bi-hammer"></i> Fabrication-Ready Facilities</span>
                 </div>
                 <div class="location">
-                  <i class="bi bi-geo-alt-fill"></i> Dallas, TX
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
                 </div>
               </div>
             </div>
           </div>
         </div>
 
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/hardworkers.jpg" class="img-fluid" alt="Commercial Construction Project Zambia">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Commercial Construction</span>
+                <span class="status completed">Completed</span>
+                <h4>Commercial Office Complex Development</h4>
+                <p>
+                  Execution of modern commercial infrastructure incorporating reinforced concrete structures,
+                  steel fabrication, and high-quality finishing in compliance with Zambian construction standards.
+                </p>
+                <div class="specs">
+                  <span><i class="bi bi-building"></i> Multi-Storey Structure</span>
+                  <span><i class="bi bi-tools"></i> Structural & Civil Works</span>
+                </div>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Kitwe, Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/structure.jpg" class="img-fluid" alt="Mining & Industrial Processing Plant Development Zambia">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Mining & Industrial Processing Facilities</span>
+                <span class="status in-progress">Ongoing Projects</span>
+                <h4>Processing Plant & Industrial Infrastructure Development</h4>
+                <p>
+                  Engineering and construction of mining, quarry, and material processing
+                  facilities including structural steel frameworks, heavy-duty concrete
+                  foundations, plant platforms, conveyor systems support structures,
+                  and integrated mechanical installations designed for high-output operations.
+                </p>
+                <div class="specs">
+                  <span><i class="bi bi-diagram-3"></i> Process Plant Structures</span>
+                  <span><i class="bi bi-truck"></i> Heavy Industrial Infrastructure</span>
+                </div>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/WhatsApp Image 2026-02-24 at 12.33.31 AM (1).jpeg" class="img-fluid" alt="Industrial Reinforced Concrete Structures Zambia">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Industrial Concrete Structures</span>
+                <span class="status completed">Completed</span>
+                <h4>Reinforced Concrete Infrastructure</h4>
+                <p>
+                  Construction of heavy-duty structures
+                  including storage silos, containment tanks, and industrial process units. Deep foundation systems, precision formwork, structural reinforcement installation, and high-strength concrete placement
+                  designed for long-term industrial performance.
+                </p>
+                <div class="specs">
+                  <span><i class="bi bi-building"></i> Reinforced Concrete Engineering</span>
+                  <span><i class="bi bi-layers"></i> Industrial-Grade Foundations</span>
+                </div>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
 
     </div>
