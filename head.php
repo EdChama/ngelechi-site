@@ -100,12 +100,12 @@
                 <i class="bi bi-chevron-down toggle-dropdown"></i>
               </a>
               <ul>
-                <li><a href="services.php#construction">Construction</a></li>
-                <li><a href="services.php#telecommunications">Telecommunications</a></li>
-                <li><a href="services.php#supply">Supply</a></li>
-                <li><a href="services.php#mining">Mining</a></li>
-                <li><a href="services.php#water-engineering">Water Engineering</a></li>
-                <li><a href="services.php#branding">Branding & Graphics Design</a></li>
+                <li><a href="construction.php">Construction</a></li>
+                <li><a href="telecommunications.php#">Telecommunications</a></li>
+                <li><a href="supply.php">Supply</a></li>
+                <li><a href="mining.php">Mining</a></li>
+                <li><a href="water-engineering.php">Water Engineering</a></li>
+                <li><a href="branding.php">Branding & Graphics Design</a></li>
               </ul>
             </li>
 

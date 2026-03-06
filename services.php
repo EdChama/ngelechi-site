@@ -27,6 +27,7 @@
                 <p>From concept to completion, our construction team delivers durable, innovative, and sustainable structures tailored to your needs. We pride ourselves on quality, safety, and timely delivery.</p>
               </div>
               <a href="contact.php?service=construction" class="btn btn-primary btn-sm mt-2 service-quote-link">Request a Quote</a>
+              <a href="construction.php" class="btn btn-primary btn-sm mt-2 service-quote-link">Details</a>
             </div>
             <div class="col-md-6 col-lg-6 mb-4 mb-md-0 service-img-ux">
               <img src="assets/img/construction/construct.jpg" alt="Construction" class="img-fluid rounded shadow service-img-hover">
@@ -150,7 +151,7 @@
             </div>
           </div>
         </div>
-        <!-- Add more services here if needed -->
+
       </div>
     </div>
   </section>

@@ -28,7 +28,7 @@
   <!-- Leadership & Management Team -->
   <section class="section py-5">
     <div class="container" data-aos="fade-up">
-      <div class="row g-4 align-items-stretch">
+      <div class="row g-4 align-items-stretch justify-content-center">
         <div class="col-md-6 col-lg-4">
           <div class="team-card h-100 shadow rounded p-4 bg-white">
             <div class="team-photo mb-3 text-center">
@@ -40,16 +40,6 @@
             <p class="small mb-1">Qualification: BSc Degree in Telecommunication Engineering</p>
             <p class="mb-2"><strong>Skills:</strong> Management, Marketing, Sales, Engineering</p>
             <p class="mb-2">Founder of Ngelechi Mining and Construction LTD with extensive experience in construction, project management, marketing, sales, and telecommunication engineering. Provides overall leadership and strategic direction for the company.</p>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-4">
-          <div class="team-card h-100 shadow rounded p-4 bg-white">
-            <div class="team-photo mb-3 text-center">
-              <img src="assets/img/person/placeholder.jpg" alt="Juliana Muyunda" class="img-fluid rounded-circle" style="max-width:120px;">
-            </div>
-            <h4 class="fw-bold mb-1">Juliana Muyunda</h4>
-            <span class="text-primary">Second Executive</span>
-            <p class="small mb-1">(No additional biography provided)</p>
           </div>
         </div>
       </div>
