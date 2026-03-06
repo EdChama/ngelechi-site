@@ -27,6 +27,35 @@
         <!-- Gallery Item -->
         <div class="col-lg-4 col-md-6">
           <div class="gallery-item">
+            <img src="assets/img/construction/structural-foundation-works.jpg" class="img-fluid" alt="Structural foundation construction and reinforced concrete framework by Ngelechi in Zambia">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Structural Engineering & Foundation Works</span>
+                <span class="status completed">In Progress</span>
+                <h4>Reinforced Concrete Foundation Development</h4>
+                <p>
+                  Precision installation of reinforced concrete foundations and structural
+                  framework components. Our engineering teams oversee site alignment,
+                  rebar placement, and formwork preparation to ensure strong, durable,
+                  and load-bearing foundations for modern construction projects.
+                </p>
+
+                <div class="specs">
+                  <span><i class="bi bi-diagram-3"></i> Structural Framework</span>
+                  <span><i class="bi bi-person-check"></i> On-Site Engineering Supervision</span>
+                </div>
+
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
             <img src="assets/img/construction/IMG_7695.jpg" class="img-fluid" alt="Industrial Warehouse Construction Zambia">
             <div class="gallery-overlay">
               <div class="overlay-content">
@@ -43,6 +72,66 @@
                   <span><i class="bi bi-building-gear"></i> Steel & Concrete Structures</span>
                   <span><i class="bi bi-tools"></i> Industrial-Grade Construction</span>
                 </div>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/small-mining-processing-plant.jpg" class="img-fluid" alt="Small-scale mining processing plant and industrial equipment installation in Zambia">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Mining Infrastructure & Industrial Installations</span>
+                <span class="status completed">Completed</span>
+                <h4>Small-Scale Mineral Processing Plant</h4>
+                <p>
+                  Development and installation of a compact mineral processing facility
+                  designed to support efficient small-scale mining operations. Our team
+                  handled structural setup, equipment positioning, mechanical support
+                  structures, and operational layout to ensure safe material handling
+                  and reliable processing performance.
+                </p>
+
+                <div class="specs">
+                  <span><i class="bi bi-gear-wide-connected"></i> Industrial Equipment Setup</span>
+                  <span><i class="bi bi-building-gear"></i> Processing Plant Infrastructure</span>
+                </div>
+
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/solar-panel-installation.jpg" class="img-fluid" alt="Solar panel installation and renewable energy systems by Ngelechi in Zambia">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Solar Energy & Renewable Power Systems</span>
+                <span class="status completed">Completed</span>
+                <h4>Commercial Solar Panel Installation</h4>
+                <p>
+                  Installation of high-efficiency photovoltaic solar panels designed to
+                  deliver reliable and sustainable energy solutions. Our team manages
+                  system layout, panel mounting, inverter configuration, and electrical
+                  integration to ensure optimal power generation and long-term energy
+                  performance for residential and commercial facilities.
+                </p>
+
+                <div class="specs">
+                  <span><i class="bi bi-lightning-charge"></i> Photovoltaic Power Systems</span>
+                  <span><i class="bi bi-tools"></i> Professional System Installation</span>
+                </div>
+
                 <div class="location">
                   <i class="bi bi-geo-alt-fill"></i> Zambia
                 </div>
@@ -96,6 +185,33 @@
                 <div class="specs">
                   <span><i class="bi bi-building-gear"></i> Industrial Structures</span>
                   <span><i class="bi bi-hammer"></i> Fabrication-Ready Facilities</span>
+                </div>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/crane-site-operations.jpg" class="img-fluid" alt="Crane Setup and Heavy Equipment Operations in Zambia">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Heavy Equipment & Crane Operations</span>
+                <span class="status completed">Operational</span>
+                <h4>Mobile Crane Deployment & Site Lifting Operations</h4>
+                <p>
+                  Professional deployment of truck-mounted cranes to support heavy lifting,
+                  structural installation, and industrial logistics. Our teams ensure safe
+                  stabilization, precise load handling, and efficient on-site coordination
+                  for construction and infrastructure projects.
+                </p>
+                <div class="specs">
+                  <span><i class="bi bi-truck"></i> Mobile Crane Operations</span>
+                  <span><i class="bi bi-shield-check"></i> Safety-Compliant Lifting</span>
                 </div>
                 <div class="location">
                   <i class="bi bi-geo-alt-fill"></i> Zambia
@@ -183,6 +299,40 @@
             </div>
           </div>
         </div>
+
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/water-engineering-supply-systems.jpg" class="img-fluid" alt="Water engineering infrastructure and essential water supply systems development in Zambia">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Water Engineering & Utility Supply Systems</span>
+                <span class="status completed">Completed</span>
+                <h4>Water Supply & Utility Infrastructure</h4>
+                <p>
+                  Design and implementation of water engineering systems aimed at
+                  providing reliable access to essential water resources. The project
+                  includes installation of piping networks, storage tanks, pumping
+                  systems, and distribution infrastructure to support communities,
+                  construction sites, and industrial facilities.
+                </p>
+
+                <div class="specs">
+                  <span><i class="bi bi-droplet"></i> Water Distribution Systems</span>
+                  <span><i class="bi bi-wrench-adjustable"></i> Pump & Pipeline Installation</span>
+                </div>
+
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <!-- Gallery card ends -->
       </div>
 
     </div>

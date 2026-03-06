@@ -32,7 +32,7 @@
         <div class="col-md-6 col-lg-4">
           <div class="team-card h-100 shadow rounded p-4 bg-white">
             <div class="team-photo mb-3 text-center">
-              <img src="assets/img/person/placeholder.jpg" alt="Mr. Muyunda Rodney Michael" class="img-fluid rounded-circle" style="max-width:120px;">
+              <img src="/assets/img/person/ceo.jpg" alt="Mr. Muyunda Rodney Michael" class="img-fluid rounded-circle" style="max-width:120px;">
             </div>
             <h4 class="fw-bold mb-1">Mr. Muyunda Rodney Michael</h4>
             <span class="text-primary">Managing Director (MD)</span>

@@ -15,18 +15,20 @@
         </div>
     </div>
 
-    <!-- Service Details Section -->
+
     <section id="service-details" class="service-details section">
 
-        <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="container" data-aos="fade-up">
 
             <div class="row">
 
                 <!-- SIDEBAR -->
                 <div class="col-lg-4 order-lg-2">
-                    <div class="service-sidebar" data-aos="fade-left" data-aos-delay="200">
+
+                    <div class="service-sidebar">
 
                         <div class="service-overview-card">
+
                             <div class="service-icon">
                                 <i class="bi bi-building"></i>
                             </div>
@@ -34,12 +36,14 @@
                             <h3>Construction & Engineering</h3>
 
                             <p>
-                                We provide professional construction and civil engineering services
-                                focused on delivering durable infrastructure, modern buildings,
-                                and industrial facilities across Zambia.
+                                Ngelechi Company Limited provides professional construction,
+                                civil engineering, and structural development services
+                                for infrastructure, industrial, and commercial projects
+                                across Zambia.
                             </p>
 
                             <div class="service-stats">
+
                                 <div class="stat-item">
                                     <span class="stat-number">Quality</span>
                                     <span class="stat-label">Engineering Standards</span>
@@ -49,22 +53,25 @@
                                     <span class="stat-number">Reliable</span>
                                     <span class="stat-label">Project Delivery</span>
                                 </div>
+
                             </div>
                         </div>
 
+
                         <div class="quick-info-card">
-                            <h4>Our Services</h4>
+
+                            <h4>Core Services</h4>
 
                             <div class="info-grid">
 
                                 <div class="info-row">
-                                    <span class="label">Steel Fabrication</span>
-                                    <span class="value">Structural Works</span>
+                                    <span class="label">Structural Construction</span>
+                                    <span class="value">Buildings & Facilities</span>
                                 </div>
 
                                 <div class="info-row">
-                                    <span class="label">Building Works</span>
-                                    <span class="value">Commercial & Residential</span>
+                                    <span class="label">Steel Fabrication</span>
+                                    <span class="value">Industrial Structures</span>
                                 </div>
 
                                 <div class="info-row">
@@ -73,30 +80,32 @@
                                 </div>
 
                                 <div class="info-row">
+                                    <span class="label">3D Modelling</span>
+                                    <span class="value">Engineering Design</span>
+                                </div>
+
+                                <div class="info-row">
+                                    <span class="label">Waterproofing</span>
+                                    <span class="value">Surface Protection</span>
+                                </div>
+
+                                <div class="info-row">
                                     <span class="label">Project Management</span>
                                     <span class="value">End-to-End Delivery</span>
                                 </div>
 
-                                <div class="info-row">
-                                    <span class="label">3D Modelling</span>
-                                    <span class="value">Design & Drafting</span>
-                                </div>
-
-                                <div class="info-row">
-                                    <span class="label">Surface Protection</span>
-                                    <span class="value">Waterproofing Solutions</span>
-                                </div>
-
                             </div>
+
                         </div>
+
 
                         <div class="contact-action-card">
 
                             <h4>Start Your Project</h4>
 
                             <p class="contact-text">
-                                Contact our team to discuss your construction, engineering,
-                                or infrastructure project requirements.
+                                Speak with our engineering team today to discuss your project
+                                requirements or request a detailed quotation.
                             </p>
 
                             <div class="contact-methods">
@@ -125,199 +134,281 @@
 
                 <!-- MAIN CONTENT -->
                 <div class="col-lg-8 order-lg-1">
+
                     <div class="service-main-content">
 
-                        <div class="hero-section" data-aos="zoom-in" data-aos-delay="150">
 
-                            <img src="assets/img/construction/construct.jpg"
-                                alt="Construction Services"
-                                class="img-fluid">
+                        <!-- HERO -->
+                        <div class="hero-section">
+
+                            <img src="assets/img/construction/female-truck-driver-working.jpg"
+                                class="img-fluid"
+                                alt="Construction Services Zambia">
 
                             <div class="hero-overlay">
                                 <div class="hero-badge">
                                     <i class="bi bi-award"></i>
-                                    <span>Professional Construction Services</span>
+                                    <span>Professional Construction Solutions</span>
                                 </div>
                             </div>
 
                         </div>
 
-                        <div class="content-section" data-aos="fade-up" data-aos-delay="200">
+
+                        <!-- INTRO -->
+                        <div class="content-section">
 
                             <h1>Professional Construction & Civil Engineering</h1>
 
-                            <div class="content-intro">
+                            <p>
+                                Our construction division delivers reliable structural and
+                                civil engineering services that support industrial development,
+                                commercial expansion, and infrastructure growth.
+                            </p>
 
-                                <p>
-                                    Our construction division delivers high-quality structural,
-                                    civil, and industrial projects designed to meet the growing
-                                    infrastructure and development needs across Zambia.
-                                </p>
+                            <p>
+                                Through a combination of engineering expertise,
+                                skilled field teams, and modern equipment,
+                                Ngelechi Company Limited delivers projects
+                                with efficiency, safety, and long-term durability.
+                            </p>
 
-                                <p>
-                                    From planning and structural design to construction and
-                                    project management, we ensure every project is completed
-                                    with precision, safety, and efficiency.
-                                </p>
+                        </div>
 
+
+
+                        <!-- HEAVY EQUIPMENT -->
+                        <div class="section mt-5">
+
+                            <h2>Field Operations & Heavy Equipment</h2>
+
+                            <div class="row g-4">
+
+                                <div class="col-md-6">
+                                    <img src="assets/img/construction/crane.jpg"
+                                        class="img-fluid rounded"
+                                        alt="Mobile Crane Operations">
+
+                                    <h5 class="mt-3">Heavy Lifting Operations</h5>
+
+                                    <p>
+                                        Our team operates mobile cranes and specialized
+                                        equipment for lifting, installation, and positioning
+                                        of heavy structural components, containers,
+                                        machinery, and construction materials.
+                                    </p>
+
+                                </div>
+
+                                <div class="col-md-6">
+                                    <img src="assets/img/construction/site-team.jpg"
+                                        class="img-fluid rounded"
+                                        alt="Construction team at site">
+
+                                    <h5 class="mt-3">Experienced Site Teams</h5>
+
+                                    <p>
+                                        Our skilled engineers, technicians, and operators
+                                        coordinate efficiently on site to ensure
+                                        safe and precise execution of construction
+                                        and structural installation activities.
+                                    </p>
+
+                                </div>
+
+                            </div>
+
+                            <div class="text-center py-4 mt-4">
+                                <a href="gallery.php" class="btn btn-warning rounded rounded-pill px-4 py-3 shadow text-white"><i class="bi bi-boxes px-3"></i> See More in Gallery <i class="bi bi-arrow-right px-3"></i></a>
                             </div>
 
                         </div>
 
 
-                        <!-- CAPABILITIES -->
-                        <div class="capabilities-grid" data-aos="fade-up" data-aos-delay="250">
 
-                            <h2>Our Capabilities</h2>
+                        <!-- CAPABILITIES -->
+                        <div class="capabilities-grid mt-5">
+
+                            <h2>Engineering Capabilities</h2>
 
                             <div class="row g-4">
 
                                 <div class="col-md-6">
                                     <div class="capability-card">
-                                        <div class="capability-icon">
-                                            <i class="bi bi-building-gear"></i>
-                                        </div>
+                                        <i class="bi bi-building-gear"></i>
                                         <h4>Structural Construction</h4>
                                         <p>
-                                            Construction of commercial buildings, residential structures,
-                                            industrial facilities, and engineered structural systems.
+                                            Construction of residential, commercial,
+                                            and industrial structures designed for
+                                            durability and operational efficiency.
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="col-md-6">
                                     <div class="capability-card">
-                                        <div class="capability-icon">
-                                            <i class="bi bi-tools"></i>
-                                        </div>
+                                        <i class="bi bi-tools"></i>
                                         <h4>Steel Fabrication</h4>
                                         <p>
-                                            Fabrication and installation of steel structures for
-                                            warehouses, workshops, processing plants, and industrial facilities.
+                                            Fabrication and installation of structural steel
+                                            for warehouses, plants, workshops,
+                                            and industrial facilities.
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="col-md-6">
                                     <div class="capability-card">
-                                        <div class="capability-icon">
-                                            <i class="bi bi-clipboard-check"></i>
-                                        </div>
-                                        <h4>Project Management</h4>
+                                        <i class="bi bi-diagram-3"></i>
+                                        <h4>Engineering Design</h4>
                                         <p>
-                                            Professional project supervision ensuring timely completion,
-                                            quality control, and cost-efficient project execution.
+                                            Preparation of engineering drawings,
+                                            3D modelling, and structural planning
+                                            for efficient project execution.
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="col-md-6">
                                     <div class="capability-card">
-                                        <div class="capability-icon">
-                                            <i class="bi bi-shield-check"></i>
-                                        </div>
-                                        <h4>Engineering Quality</h4>
+                                        <i class="bi bi-shield-check"></i>
+                                        <h4>Quality Assurance</h4>
                                         <p>
-                                            All projects are delivered following professional engineering
-                                            standards with strong focus on durability and safety.
+                                            Strict adherence to engineering
+                                            standards, quality control,
+                                            and safety procedures.
                                         </p>
                                     </div>
                                 </div>
 
                             </div>
+
                         </div>
 
 
-                        <!-- METHODOLOGY -->
-                        <div class="methodology-section" data-aos="fade-up" data-aos-delay="300">
+
+                        <!-- WORK ETHIC -->
+                        <div class="section mt-5">
+
+                            <h2>Professional Work Ethic & Safety Culture</h2>
+
+                            <div class="row g-4">
+
+                                <div class="col-md-4">
+
+                                    <div class="ethic-card text-center">
+
+                                        <i class="bi bi-person-check"></i>
+
+                                        <h5>Skilled Workforce</h5>
+
+                                        <p>
+                                            Our team consists of trained engineers,
+                                            technicians, and operators dedicated
+                                            to delivering quality workmanship.
+                                        </p>
+
+                                    </div>
+
+                                </div>
+
+
+                                <div class="col-md-4">
+
+                                    <div class="ethic-card text-center">
+
+                                        <i class="bi bi-shield"></i>
+
+                                        <h5>Safety Compliance</h5>
+
+                                        <p>
+                                            Strict adherence to construction
+                                            safety procedures and protective
+                                            equipment standards on every site.
+                                        </p>
+
+                                    </div>
+
+                                </div>
+
+
+                                <div class="col-md-4">
+
+                                    <div class="ethic-card text-center">
+
+                                        <i class="bi bi-clock-history"></i>
+
+                                        <h5>Reliable Delivery</h5>
+
+                                        <p>
+                                            Efficient planning and disciplined
+                                            execution ensure projects are
+                                            completed on schedule.
+                                        </p>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+
+                        <!-- PROCESS -->
+                        <div class="methodology-section mt-5">
 
                             <h2>Our Construction Process</h2>
 
                             <div class="methodology-timeline">
 
                                 <div class="timeline-item">
-                                    <div class="timeline-marker">
-                                        <span class="phase-number">1</span>
-                                    </div>
-                                    <div class="timeline-content">
-                                        <h4>Planning & Design</h4>
-                                        <p>
-                                            Project planning, site assessment, design drafting,
-                                            and preparation of structural and engineering drawings.
-                                        </p>
-                                        <ul class="phase-features">
-                                            <li>Site evaluation</li>
-                                            <li>3D modelling & drafting</li>
-                                            <li>Cost estimates</li>
-                                        </ul>
-                                    </div>
+                                    <span class="phase-number">1</span>
+                                    <h4>Planning & Design</h4>
+                                    <p>
+                                        Engineering design, cost planning,
+                                        site evaluation, and project preparation.
+                                    </p>
                                 </div>
 
-
                                 <div class="timeline-item">
-                                    <div class="timeline-marker">
-                                        <span class="phase-number">2</span>
-                                    </div>
-                                    <div class="timeline-content">
-                                        <h4>Structural Development</h4>
-                                        <p>
-                                            Execution of foundation works, structural frameworks,
-                                            and reinforced concrete construction.
-                                        </p>
-                                        <ul class="phase-features">
-                                            <li>Excavation and foundations</li>
-                                            <li>Steel structural fabrication</li>
-                                            <li>Concrete structural works</li>
-                                        </ul>
-                                    </div>
+                                    <span class="phase-number">2</span>
+                                    <h4>Structural Development</h4>
+                                    <p>
+                                        Foundation works, steel fabrication,
+                                        and reinforced concrete construction.
+                                    </p>
                                 </div>
 
-
                                 <div class="timeline-item">
-                                    <div class="timeline-marker">
-                                        <span class="phase-number">3</span>
-                                    </div>
-                                    <div class="timeline-content">
-                                        <h4>Construction & Installation</h4>
-                                        <p>
-                                            Building development including structural installations,
-                                            systems integration, and finishing works.
-                                        </p>
-                                        <ul class="phase-features">
-                                            <li>Building works</li>
-                                            <li>Mechanical and structural installations</li>
-                                            <li>Waterproofing surfaces</li>
-                                        </ul>
-                                    </div>
+                                    <span class="phase-number">3</span>
+                                    <h4>Construction Execution</h4>
+                                    <p>
+                                        Structural installation, systems integration,
+                                        and finishing works.
+                                    </p>
                                 </div>
 
-
                                 <div class="timeline-item">
-                                    <div class="timeline-marker">
-                                        <span class="phase-number">4</span>
-                                    </div>
-                                    <div class="timeline-content">
-                                        <h4>Completion & Delivery</h4>
-                                        <p>
-                                            Final inspections, project certification, and delivery
-                                            of a fully completed and operational facility.
-                                        </p>
-                                        <ul class="phase-features">
-                                            <li>Quality inspection</li>
-                                            <li>Project documentation</li>
-                                            <li>Client handover</li>
-                                        </ul>
-                                    </div>
+                                    <span class="phase-number">4</span>
+                                    <h4>Completion & Handover</h4>
+                                    <p>
+                                        Inspection, documentation, and delivery
+                                        of the completed facility.
+                                    </p>
                                 </div>
 
                             </div>
+
                         </div>
+
 
                     </div>
                 </div>
 
-            </div>
 
+            </div>
         </div>
 
     </section>

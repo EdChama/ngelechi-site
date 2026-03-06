@@ -132,7 +132,7 @@
 
                         <div class="hero-section" data-aos="zoom-in" data-aos-delay="150">
 
-                            <img src="assets/img/construction/branding.png"
+                            <img src="assets/img/construction/branding_nice.jpg"
                                 alt="Branding & Graphics Design"
                                 class="img-fluid">
 
