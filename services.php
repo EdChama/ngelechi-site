@@ -26,7 +26,7 @@
               <div class="service-expand-text mb-2">
                 <p>From concept to completion, our construction team delivers durable, innovative, and sustainable structures tailored to your needs. We pride ourselves on quality, safety, and timely delivery.</p>
               </div>
-              <a href="contact.php?service=construction" class="btn btn-primary btn-sm mt-2 service-quote-link">Request a Quote</a>
+              <a href="quote.php" class="btn btn-primary btn-sm mt-2 service-quote-link">Request a Quote</a>
               <a href="construction.php" class="btn btn-primary btn-sm mt-2 service-quote-link">Details</a>
             </div>
             <div class="col-md-6 col-lg-6 mb-4 mb-md-0 service-img-ux">
@@ -55,7 +55,7 @@
               <div class="service-expand-text mb-2">
                 <p>We provide end-to-end telecom solutions, ensuring robust connectivity and seamless communication for businesses and communities across Zambia.</p>
               </div>
-              <a href="contact.php?service=telecommunications" class="btn btn-primary btn-sm mt-2 service-quote-link">Request a Quote</a>
+              <a href="quote.php?service=telecommunications" class="btn btn-primary btn-sm mt-2 service-quote-link">Request a Quote</a>
             </div>
           </div>
         </div>
@@ -77,7 +77,7 @@
               <div class="service-expand-text mb-2">
                 <p>Our supply division sources and delivers high-quality parts and equipment, supporting your operations with reliability and efficiency.</p>
               </div>
-              <a href="contact.php?service=supply" class="btn btn-primary btn-sm mt-2 service-quote-link">Request a Quote</a>
+              <a href="quote.php?service=supply" class="btn btn-primary btn-sm mt-2 service-quote-link">Request a Quote</a>
             </div>
             <div class="col-md-6 col-lg-6 mb-4 mb-md-0 service-img-ux">
               <img src="assets/img/construction/supply.jpg" alt="Supply Division" class="img-fluid rounded shadow service-img-hover">
@@ -101,7 +101,7 @@
               <div class="service-expand-text mb-2">
                 <p>We offer expert mining solutions, from consulting to equipment supply, ensuring safe and productive mining operations.</p>
               </div>
-              <a href="contact.php?service=mining" class="btn btn-primary btn-sm mt-2 service-quote-link">Request a Quote</a>
+              <a href="quote.php?service=mining" class="btn btn-primary btn-sm mt-2 service-quote-link">Request a Quote</a>
             </div>
           </div>
         </div>
@@ -119,7 +119,7 @@
               <div class="service-expand-text mb-2">
                 <p>Our water engineering team designs and implements sustainable water solutions for communities and industries.</p>
               </div>
-              <a href="contact.php?service=water-engineering" class="btn btn-primary btn-sm mt-2 service-quote-link">Request a Quote</a>
+              <a href="quote.php?service=water-engineering" class="btn btn-primary btn-sm mt-2 service-quote-link">Request a Quote</a>
             </div>
             <div class="col-md-6 col-lg-6 mb-4 mb-md-0 service-img-ux">
               <img src="assets/img/construction/water.jpg" alt="Water Engineering" class="img-fluid rounded shadow service-img-hover">
@@ -147,7 +147,7 @@
               <div class="service-expand-text mb-2">
                 <p>Our creative team crafts memorable brands and visuals that help your business shine in the marketplace.</p>
               </div>
-              <a href="contact.php?service=branding" class="btn btn-primary btn-sm mt-2 service-quote-link">Request a Quote</a>
+              <a href="quote.php?service=branding" class="btn btn-primary btn-sm mt-2 service-quote-link">Request a Quote</a>
             </div>
           </div>
         </div>
