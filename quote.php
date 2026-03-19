@@ -65,9 +65,8 @@ include 'head.php';
                         </div>
                         <div class="contact-details">
                           <h4>Email</h4>
-                          <p> <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:sales@ngelechi.com" class="text-light">sales@ngelechi.com</a></i>
-                          <p> <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:ngelechicompanylimited@gmail.com" class="text-light">ngelechicompanylimited@gmail.com</a></i>
-                            <i class="bi bi-envelope d-flex align-items-center ms-4"><a href="mailto:ngelechicompanylimted@yahoo.com" class="text-light">ngelechicompanylimted@yahoo.com</a></i>
+                          <p> <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:sales@ngelechi.com" class="text-light">sales@ngelechi.com</a></i> | 
+                           <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:ngelechicompanylimited@gmail.com" class="text-light">ngelechicompanylimited@gmail.com</a></i>
                           </p>
                         </div>
                       </div>

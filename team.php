@@ -53,7 +53,7 @@
         <div class="col-md-6 col-lg-4">
           <div class="team-card h-100 shadow rounded p-4 bg-white">
             <div class="team-photo mb-3 text-center">
-              <img src="assets/img/person/placeholder.jpg" alt="Stanley Chomba" class="img-fluid rounded-circle" style="max-width:120px;">
+              <img src="assets/img/person/chomba.jpeg" alt="Stanley Chomba" class="img-fluid rounded-circle" style="max-width:120px;">
             </div>
             <h5 class="fw-bold mb-1">Stanley Chomba</h5>
             <span class="text-primary">Project Site Manager / Civil Engineer</span>

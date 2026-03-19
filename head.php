@@ -56,9 +56,8 @@
     <div class="topbar d-flex align-items-center dark-background">
       <div class="container d-flex justify-content-center justify-content-md-between">
         <div class="contact-info d-flex align-items-center">
-          <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:sales@ngelechi.com" class="text-light">sales@ngelechi.com</a></i>
+          <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:sales@ngelechi.com" class="text-light">sales@ngelechi.com</a></i> 
           <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:ngelechicompanylimited@gmail.com">ngelechicompanylimited@gmail.com</a></i>
-          <i class="bi bi-envelope d-flex align-items-center ms-4"><a href="mailto:ngelechicompanylimted@yahoo.com">ngelechicompanylimted@yahoo.com</a></i>
           <i class="bi bi-phone d-flex align-items-center ms-4"><span>+260 978 265 000</span></i>
           <i class="bi bi-phone d-flex align-items-center ms-4"><span>+260 968 525 857</span></i>
         </div>
