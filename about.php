@@ -159,6 +159,72 @@
   </section>
   <!-- End Empowering Section -->
 
+  <!-- Labor Based Works Section -->
+  <section class="section py-5 labor-based-about">
+
+    <div class="container" data-aos="fade-up">
+
+      <div class="row align-items-center g-5">
+
+        <div class="col-lg-6" data-aos="fade-right">
+          <div class="row g-3">
+            <div class="col-7">
+              <img src="assets/img/construction/labor-based-works-site-team.jpg"
+                class="img-fluid rounded shadow labor-about-main"
+                alt="Labor based works site team">
+            </div>
+            <div class="col-5">
+              <img src="assets/img/construction/labor-based-works-steel-structure.jpg"
+                class="img-fluid rounded shadow mb-3 labor-about-side"
+                alt="Labor based works steel structure">
+              <img src="assets/img/construction/labor-based-works-safety-supervision.jpg"
+                class="img-fluid rounded shadow labor-about-side"
+                alt="Labor based works safety supervision">
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-6" data-aos="fade-left">
+
+          <h2>Labor Based Works</h2>
+
+          <p class="lead">
+            Our labor-based works combine skilled site teams, practical supervision,
+            and safety-focused execution to support construction projects from
+            preparation through completion.
+          </p>
+
+          <p>
+            Ngelechi Mining and Construction LTD provides dependable manpower for
+            civil works, concrete preparation, steel structure support, finishing,
+            and day-to-day site operations. This hands-on approach helps clients
+            keep projects moving with discipline, quality, and accountability.
+          </p>
+
+          <div class="row g-3 mt-3">
+            <div class="col-sm-6">
+              <div class="d-flex align-items-center gap-2">
+                <i class="bi bi-people-fill text-primary fs-4"></i>
+                <span>Skilled field workforce</span>
+              </div>
+            </div>
+            <div class="col-sm-6">
+              <div class="d-flex align-items-center gap-2">
+                <i class="bi bi-shield-check text-primary fs-4"></i>
+                <span>Safety-led supervision</span>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+  <!-- End Labor Based Works Section -->
+
 
   <!-- Innovation and Collaboration Section -->
   <section class="section py-5">
@@ -293,5 +359,26 @@
 
 
 </main>
+
+<style>
+  .labor-about-main {
+    height: 430px;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .labor-about-side {
+    height: 205px;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  @media (max-width: 768px) {
+    .labor-about-main,
+    .labor-about-side {
+      height: 240px;
+    }
+  }
+</style>
 
 <?php require 'foot.php'; ?>

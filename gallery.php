@@ -27,6 +27,234 @@
         <!-- Gallery Item -->
         <div class="col-lg-4 col-md-6">
           <div class="gallery-item">
+            <img src="assets/img/construction/labor-based-works-site-team.jpg" class="img-fluid" alt="Labor based works construction site team and steel structure">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Labor Based Works</span>
+                <span class="status in-progress">Site Works</span>
+                <h4>Labor Based Works</h4>
+                <p>
+                  Skilled site teams carrying out hands-on construction works,
+                  supervision, and finishing around a steel-framed facility.
+                </p>
+                <div class="specs">
+                  <span><i class="bi bi-people"></i> Site Workforce</span>
+                  <span><i class="bi bi-building-gear"></i> Structural Works</span>
+                </div>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/labor-based-works-concrete-works.jpg" class="img-fluid" alt="Labor based works concrete construction and site preparation">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Labor Based Works</span>
+                <span class="status in-progress">Concrete Works</span>
+                <h4>Labor Based Works</h4>
+                <p>
+                  Manual and supervised construction activity supporting concrete
+                  walling, formwork, site preparation, and civil infrastructure delivery.
+                </p>
+                <div class="specs">
+                  <span><i class="bi bi-bricks"></i> Concrete Works</span>
+                  <span><i class="bi bi-tools"></i> Site Preparation</span>
+                </div>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/labor-based-works-steel-structure.jpg" class="img-fluid" alt="Labor based works completed steel structure facility">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Labor Based Works</span>
+                <span class="status completed">Completed</span>
+                <h4>Labor Based Works</h4>
+                <p>
+                  Completed steel-framed facility works showing structural assembly,
+                  roofing, enclosure, and practical site execution.
+                </p>
+                <div class="specs">
+                  <span><i class="bi bi-building"></i> Steel Structure</span>
+                  <span><i class="bi bi-check-circle"></i> Facility Works</span>
+                </div>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/labor-based-works-safety-supervision.jpg" class="img-fluid" alt="Labor based works safety supervision on construction site">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Labor Based Works</span>
+                <span class="status in-progress">Safety Supervision</span>
+                <h4>Labor Based Works</h4>
+                <p>
+                  Field supervision and safety-managed labor execution on elevated
+                  construction works, supporting efficient project progress.
+                </p>
+                <div class="specs">
+                  <span><i class="bi bi-shield-check"></i> Safety Controls</span>
+                  <span><i class="bi bi-person-check"></i> Supervision</span>
+                </div>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/tower-build-airtel-lts-safety-sign.jpeg" class="img-fluid" alt="Tower Build-Airtel/LTS telecommunications site safety setup">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Telecommunications Infrastructure</span>
+                <span class="status in-progress">Tower Build</span>
+                <h4>Tower Build-Airtel/LTS</h4>
+                <p>
+                  Site safety setup and tower assembly works for the Airtel/LTS
+                  telecommunications build, with Ngelechi teams coordinating
+                  compliant field operations.
+                </p>
+                <div class="specs">
+                  <span><i class="bi bi-shield-check"></i> Safety Controls</span>
+                  <span><i class="bi bi-broadcast-pin"></i> Telecom Site Works</span>
+                </div>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/tower-build-airtel-lts-crane-lift.jpeg" class="img-fluid" alt="Tower Build-Airtel/LTS crane lifting operation">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Telecommunications Infrastructure</span>
+                <span class="status in-progress">Tower Build</span>
+                <h4>Tower Build-Airtel/LTS</h4>
+                <p>
+                  Crane-assisted lifting and material handling for the Airtel/LTS
+                  tower build, supported by on-site supervision and equipment
+                  coordination.
+                </p>
+                <div class="specs">
+                  <span><i class="bi bi-truck"></i> Crane Operations</span>
+                  <span><i class="bi bi-person-check"></i> Site Supervision</span>
+                </div>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/tower-build-airtel-lts-rebar-foundation.jpeg" class="img-fluid" alt="Tower Build-Airtel/LTS reinforced concrete tower foundation works">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Telecommunications Infrastructure</span>
+                <span class="status in-progress">Tower Build</span>
+                <h4>Tower Build-Airtel/LTS</h4>
+                <p>
+                  Reinforcement placement and foundation preparation for a durable
+                  telecom tower base, built to support long-term network
+                  infrastructure performance.
+                </p>
+                <div class="specs">
+                  <span><i class="bi bi-diagram-3"></i> Rebar Foundation</span>
+                  <span><i class="bi bi-building-gear"></i> Civil Works</span>
+                </div>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/tower-build-airtel-lts-night-foundation.jpeg" class="img-fluid" alt="Tower Build-Airtel/LTS night foundation construction works">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Telecommunications Infrastructure</span>
+                <span class="status in-progress">Tower Build</span>
+                <h4>Tower Build-Airtel/LTS</h4>
+                <p>
+                  Extended-hours foundation works for the Airtel/LTS tower build,
+                  including reinforcement alignment, formwork, and concrete preparation.
+                </p>
+                <div class="specs">
+                  <span><i class="bi bi-moon-stars"></i> Night Operations</span>
+                  <span><i class="bi bi-tools"></i> Foundation Works</span>
+                </div>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
+            <img src="assets/img/construction/tower-build-airtel-lts-completed-tower.jpeg" class="img-fluid" alt="Tower Build-Airtel/LTS completed telecommunications tower">
+            <div class="gallery-overlay">
+              <div class="overlay-content">
+                <span class="category">Telecommunications Infrastructure</span>
+                <span class="status completed">Completed</span>
+                <h4>Tower Build-Airtel/LTS</h4>
+                <p>
+                  Completed telecommunications tower structure prepared for network
+                  equipment and service integration after civil and structural works.
+                </p>
+                <div class="specs">
+                  <span><i class="bi bi-broadcast"></i> Tower Structure</span>
+                  <span><i class="bi bi-router"></i> Network Ready</span>
+                </div>
+                <div class="location">
+                  <i class="bi bi-geo-alt-fill"></i> Zambia
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Gallery Item -->
+        <div class="col-lg-4 col-md-6">
+          <div class="gallery-item">
             <img src="assets/img/construction/structural-foundation-works.jpg" class="img-fluid" alt="Structural foundation construction and reinforced concrete framework by Ngelechi in Zambia">
             <div class="gallery-overlay">
               <div class="overlay-content">

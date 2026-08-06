@@ -139,16 +139,49 @@
 
 
                         <!-- HERO -->
-                        <div class="hero-section">
+                        <div id="constructionLaborCarousel" class="hero-section carousel slide construction-labor-carousel" data-bs-ride="carousel" data-bs-interval="4500">
 
-                            <img src="assets/img/construction/female-truck-driver-working.jpg"
-                                class="img-fluid"
-                                alt="Construction Services Zambia">
+                            <div class="carousel-indicators">
+                                <button type="button" data-bs-target="#constructionLaborCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Labor based works site team"></button>
+                                <button type="button" data-bs-target="#constructionLaborCarousel" data-bs-slide-to="1" aria-label="Labor based works concrete works"></button>
+                                <button type="button" data-bs-target="#constructionLaborCarousel" data-bs-slide-to="2" aria-label="Labor based works steel structure"></button>
+                                <button type="button" data-bs-target="#constructionLaborCarousel" data-bs-slide-to="3" aria-label="Labor based works safety supervision"></button>
+                            </div>
+
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="assets/img/construction/labor-based-works-site-team.jpg"
+                                        class="d-block w-100"
+                                        alt="Labor based works site team at a construction facility">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/img/construction/labor-based-works-concrete-works.jpg"
+                                        class="d-block w-100"
+                                        alt="Labor based works concrete construction and site preparation">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/img/construction/labor-based-works-steel-structure.jpg"
+                                        class="d-block w-100"
+                                        alt="Labor based works steel structure facility">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/img/construction/labor-based-works-safety-supervision.jpg"
+                                        class="d-block w-100"
+                                        alt="Labor based works safety supervision on site">
+                                </div>
+                            </div>
+
+                            <button class="carousel-control-prev" type="button" data-bs-target="#constructionLaborCarousel" data-bs-slide="prev" aria-label="Previous labor based works image">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#constructionLaborCarousel" data-bs-slide="next" aria-label="Next labor based works image">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            </button>
 
                             <div class="hero-overlay">
                                 <div class="hero-badge">
                                     <i class="bi bi-award"></i>
-                                    <span>Professional Construction Solutions</span>
+                                    <span>Labor Based Works</span>
                                 </div>
                             </div>
 
@@ -158,7 +191,7 @@
                         <!-- INTRO -->
                         <div class="content-section">
 
-                            <h1>Professional Construction & Civil Engineering</h1>
+                            <h1>Professional Construction & Labor Based Works</h1>
 
                             <p>
                                 Our construction division delivers reliable structural and
@@ -171,6 +204,13 @@
                                 skilled field teams, and modern equipment,
                                 Ngelechi Company Limited delivers projects
                                 with efficiency, safety, and long-term durability.
+                            </p>
+
+                            <p>
+                                Our labor-based works support concrete preparation,
+                                steel structure installation, site finishing, and
+                                supervised manpower requirements for dependable
+                                project execution.
                             </p>
 
                         </div>
@@ -414,5 +454,37 @@
     </section>
 
 </main>
+
+<style>
+    .construction-labor-carousel,
+    .construction-labor-carousel .carousel-inner,
+    .construction-labor-carousel .carousel-item {
+        min-height: 420px;
+    }
+
+    .construction-labor-carousel .carousel-item img {
+        height: 520px;
+        object-fit: cover;
+        object-position: center;
+    }
+
+    .construction-labor-carousel .carousel-control-prev,
+    .construction-labor-carousel .carousel-control-next,
+    .construction-labor-carousel .carousel-indicators {
+        z-index: 4;
+    }
+
+    @media (max-width: 768px) {
+        .construction-labor-carousel,
+        .construction-labor-carousel .carousel-inner,
+        .construction-labor-carousel .carousel-item {
+            min-height: 320px;
+        }
+
+        .construction-labor-carousel .carousel-item img {
+            height: 360px;
+        }
+    }
+</style>
 
 <?php require 'foot.php'; ?>

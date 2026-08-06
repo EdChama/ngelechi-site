@@ -139,16 +139,49 @@
 
                     <div class="service-main-content">
 
-                        <div class="hero-section" data-aos="zoom-in" data-aos-delay="150">
+                        <div id="telecomTowerCarousel" class="hero-section carousel slide telecom-project-carousel" data-bs-ride="carousel" data-bs-interval="4500" data-aos="zoom-in" data-aos-delay="150">
 
-                            <img src="assets/img/construction/telecoms.jpg"
-                                alt="Telecommunications Services"
-                                class="img-fluid">
+                            <div class="carousel-indicators">
+                                <button type="button" data-bs-target="#telecomTowerCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Tower Build-Airtel/LTS safety setup"></button>
+                                <button type="button" data-bs-target="#telecomTowerCarousel" data-bs-slide-to="1" aria-label="Tower Build-Airtel/LTS crane lift"></button>
+                                <button type="button" data-bs-target="#telecomTowerCarousel" data-bs-slide-to="2" aria-label="Tower Build-Airtel/LTS foundation reinforcement"></button>
+                                <button type="button" data-bs-target="#telecomTowerCarousel" data-bs-slide-to="3" aria-label="Tower Build-Airtel/LTS completed tower"></button>
+                            </div>
+
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="assets/img/construction/tower-build-airtel-lts-safety-sign.jpeg"
+                                        alt="Tower Build-Airtel/LTS telecommunications site safety setup"
+                                        class="d-block w-100">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/img/construction/tower-build-airtel-lts-crane-lift.jpeg"
+                                        alt="Tower Build-Airtel/LTS crane lifting operations"
+                                        class="d-block w-100">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/img/construction/tower-build-airtel-lts-rebar-foundation.jpeg"
+                                        alt="Tower Build-Airtel/LTS reinforced tower foundation works"
+                                        class="d-block w-100">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/img/construction/tower-build-airtel-lts-completed-tower.jpeg"
+                                        alt="Tower Build-Airtel/LTS completed telecommunications tower"
+                                        class="d-block w-100">
+                                </div>
+                            </div>
+
+                            <button class="carousel-control-prev" type="button" data-bs-target="#telecomTowerCarousel" data-bs-slide="prev" aria-label="Previous tower build image">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#telecomTowerCarousel" data-bs-slide="next" aria-label="Next tower build image">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            </button>
 
                             <div class="hero-overlay">
                                 <div class="hero-badge">
                                     <i class="bi bi-broadcast-pin"></i>
-                                    <span>Professional Telecom Infrastructure</span>
+                                    <span>Tower Build-Airtel/LTS</span>
                                 </div>
                             </div>
 
@@ -158,14 +191,14 @@
 
                         <div class="content-section" data-aos="fade-up" data-aos-delay="200">
 
-                            <h1>Telecommunications Infrastructure & Network Services</h1>
+                            <h1>Tower Build-Airtel/LTS Telecommunications Infrastructure</h1>
 
                             <div class="content-intro">
 
                                 <p>
                                     Our telecommunications division delivers reliable and scalable
-                                    network infrastructure solutions designed to support modern
-                                    communication systems across Zambia.
+                                    network infrastructure solutions, including tower build works
+                                    for Airtel/LTS and other modern communication systems across Zambia.
                                 </p>
 
                                 <p>
@@ -367,5 +400,40 @@
     </section>
 
 </main>
+
+<style>
+    .telecom-project-carousel,
+    .telecom-project-carousel .carousel-inner,
+    .telecom-project-carousel .carousel-item {
+        min-height: 420px;
+    }
+
+    .telecom-project-carousel .carousel-item img {
+        height: 520px;
+        object-fit: cover;
+        object-position: center;
+    }
+
+    .telecom-project-carousel .carousel-control-prev,
+    .telecom-project-carousel .carousel-control-next {
+        z-index: 3;
+    }
+
+    .telecom-project-carousel .carousel-indicators {
+        z-index: 4;
+    }
+
+    @media (max-width: 768px) {
+        .telecom-project-carousel,
+        .telecom-project-carousel .carousel-inner,
+        .telecom-project-carousel .carousel-item {
+            min-height: 320px;
+        }
+
+        .telecom-project-carousel .carousel-item img {
+            height: 360px;
+        }
+    }
+</style>
 
 <?php require 'foot.php'; ?>
